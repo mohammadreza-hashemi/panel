@@ -15,5 +15,12 @@
         "psr_4" : {
             "ReactPanel\\Contact\\": "/src"
         }
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "ReactPanel\\Contact\\ContactServiceProvider"
+            ]
+        }
     }
 }
