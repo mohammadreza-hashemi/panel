@@ -1,0 +1,19 @@
+{
+    "name": "panel/m.hashemi_react_panel",
+    "description": "this is  panel with reactjs library",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "mohammadreza",
+            "email": "m.codeholic@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr_4" : {
+            "ReactPanel\\Contact\\": "/src"
+        }
+    }
+}
