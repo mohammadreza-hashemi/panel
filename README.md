@@ -1,4 +1,4 @@
-#READ THIS STEPS PLEASE
+# READ THIS STEPS PLEASE
 
 1-step One:run php artisan vendor publish
 <!doctype html>
@@ -10,7 +10,7 @@
     <div style="display: block; margin: auto; max-width: 600px;" class="main">
       <h1 style="font-size: 18px; font-weight: bold; margin-top: 20px">Congrats for sending test email with Mailtrap!</h1>
       <p>Inspect it using the tabs you see above and learn how this email can be improved.</p>
-      <img alt="Inspect with Tabs" src="https://assets-examples.mailtrap.io/integration-examples/welcome.png" style="width: 100%;">
+      <img alt="Inspect with Tabs" src="https://avatars.githubusercontent.com/u/53961468?v=4" style="height: 500px;width:500 px">
       <p>Now send your email using our fake SMTP server and integration of your choice!</p>
       <p>Good luck! Hope it works.</p>
     </div>
@@ -22,4 +22,4 @@
   </body>
 </html>
 
-#PLEASE FOLLOW m.coldeholic@gmail.com AND RATE THIS PACHAGE GITHUB
+# PLEASE FOLLOW m.coldeholic@gmail.com AND RATE THIS PACHAGE GITHUB
