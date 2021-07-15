@@ -1,5 +1,12 @@
 # READ THIS STEPS PLEASE
 
+[![Issues](https://img.shields.io/github/issues/mohammadreza-hashemi/panel)](https://github.com/mohammadreza-hashemi/panel/issues)
+[![Stars](https://img.shields.io/github/stars/mohammadreza-hashemi/panel)](https://github.com/mohammadreza-hashemi/panel/stargazers)
+[![Forks](https://img.shields.io/github/forks/mohammadreza-hashemi/panel)](https://github.com/mohammadreza-hashemi/panel/network/members)
+[![Forks](https://img.shields.io/github/forks/mohammadreza-hashemi/panel)](https://github.com/mohammadreza-hashemi/panel/network/members)
+
+
+
 1-step One:run php artisan vendor publish
 <!doctype html>
 <html>
